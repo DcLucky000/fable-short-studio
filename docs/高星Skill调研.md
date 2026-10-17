@@ -47,3 +47,6 @@
 ## 副本位置
 - 仓内：`/workspace/fable-short-studio/skills/<id>/SKILL.md`
 - 运行时：`/home/box/sand-data/workflows/<id>/SKILL.md` 与 `agent-data/workflows/` 已同步写入
+
+- 出片执行正式 id：`skill-1792243815568`（原临时 skill-chupian-zhixing）
+

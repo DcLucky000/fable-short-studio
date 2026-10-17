@@ -1,0 +1,31 @@
+
+=== Shot 1 duration=5s ===
+  create attempt 1...
+  task id: cgt-20261017185525-26c6z
+  poll cgt-20261017185525-26c6z: running
+  poll cgt-20261017185525-26c6z: running
+  poll cgt-20261017185525-26c6z: succeeded
+  downloading -> /workspace/fable-short-studio/output/置顶的人/shots/ZT_shot1.mp4
+  saved 4132555 bytes
+
+=== Shot 3 duration=8s ===
+  create attempt 1...
+  task id: cgt-20261017185556-v72kn
+  poll cgt-20261017185556-v72kn: running
+  poll cgt-20261017185556-v72kn: running
+  poll cgt-20261017185556-v72kn: running
+  poll cgt-20261017185556-v72kn: succeeded
+  downloading -> /workspace/fable-short-studio/output/置顶的人/shots/ZT_shot3.mp4
+  saved 6417673 bytes
+
+=== Shot 5 duration=10s ===
+  create attempt 1...
+  task id: cgt-20261017185647-xbrkq
+  poll cgt-20261017185647-xbrkq: running
+  poll cgt-20261017185647-xbrkq: running
+  poll cgt-20261017185647-xbrkq: running
+  poll cgt-20261017185647-xbrkq: succeeded
+  downloading -> /workspace/fable-short-studio/output/置顶的人/shots/ZT_shot5.mp4
+  saved 7981953 bytes
+
+Wrote /workspace/fable-short-studio/output/置顶的人/shots/STATUS.md
